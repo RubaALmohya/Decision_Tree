@@ -1,11 +1,12 @@
 # Decision_Tree
-##Machine Learning:
+## Machine Learning:
 Is a subset of artificial intelligence that is mainly concerned with the development of algorithms which allow a computer to learn from the data and past experiences on their own.
 
 ## Work of Machine Learning:
 A Machine Learning system learns from historical data, builds the prediction models, and whenever it receives new data, predicts the output for it.
 
- 
+ ![image](https://user-images.githubusercontent.com/87912604/194902545-555dd33b-44c8-45bc-9790-eee05372d901.png)
+
 
 
 ## Types of Machine Learning
@@ -18,10 +19,9 @@ Supervised Types:
 -	Classification
 -	Regression
 
+![image](https://user-images.githubusercontent.com/87912604/194902612-3eca1988-c8c0-41a9-bcbd-b802731fe682.png)
 
  
-
-
 
 
 2.	Unsupervised learning
@@ -31,8 +31,7 @@ Unsupervised types:
 -	Clustering
 -	Association
 
- 
-
+ ![image](https://user-images.githubusercontent.com/87912604/194902688-f423bbb2-63fb-49b3-8e4a-12189a48adb3.png)
 
 
 
@@ -61,6 +60,7 @@ o	Contains a condition to split the data.
 o	Helps us to decide the class of new data point.
 
 
+![image](https://user-images.githubusercontent.com/87912604/194902733-159bdd93-a2a7-4e1b-8ade-8376b75cbf62.png)
  
 
 
